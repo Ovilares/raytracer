@@ -2,7 +2,7 @@ Raytracer
 =========
 
 This is a simplest possible raytracer written in C, with minimal usage of
-pointers and external libraries, for easy understanding of the basic theory.
+pointers and external libraries, for easy understanding of the basic theory ([more details](http://shiben.blogspot.in/2012/11/simple-and-easy-ray-tracer.html)).
 
 We did not make a makefile because it's too easy to compile:
 `gcc raytracer.c -lm` 
@@ -20,13 +20,17 @@ Some points for performance sake:
 * Cone and Cylinder can use smaller resolution, default image uses 32
 * Sphere resolution, unlike Cone and Cylinder, is power of 4
 
-Thank you for downloading our code.
+Thank you for downloading our code. 
+
+Output Image
+------------
+![Raytraced Image](http://1.bp.blogspot.com/-X1qmRFRkBWQ/UJIUpNtpJmI/AAAAAAAABq4/HzkAOsgCwY4/s1600/output.png)
 
 Authors:
 --------
-Shiben Bhattacharjee
-Naveen Kumar
+* Shiben Bhattacharjee
+* Naveen Kumar Bolla
 
 Special mention of our dear friend:
 -----------------------------------
-Yash Agrawal
+* Yash Agrawal
