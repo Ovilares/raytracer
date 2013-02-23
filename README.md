@@ -24,7 +24,7 @@ Thank you for downloading our code.
 
 Output Image
 ------------
-![Raytraced Image](http://1.bp.blogspot.com/-X1qmRFRkBWQ/UJIUpNtpJmI/AAAAAAAABq4/HzkAOsgCwY4/s1600/output.png)
+![Raytraced Image](https://raw.github.com/bnaveenkr/raytracer/master/output.png)
 
 Authors:
 --------
